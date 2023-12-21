@@ -26,6 +26,8 @@ Improved Authentication Mechanism (./services/authenticationV2.js): Introduces a
 
 Revamped Product Controller (./controllers/product.controller.js): Features more efficient request handling and response generation for product-related operations.
 
+Version Simple: 
+https://github.com/phamhung075/9-nodejs_mongodb_wc_showCase_API_Product_use_Factory_Pattern
 
 Version upgrade level Senior: 
 https://github.com/phamhung075/11-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Senior_lv
