@@ -17,9 +17,13 @@ This is a personal project series based on the lessons by @anonystick ([https://
 `10-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Junior_lv` is a Node.js application that demonstrates the use of the simple factory pattern to create a flexible and scalable API for managing products in a MongoDB database. This approach is ideal for e-commerce platforms where product management requires a dynamic and adaptable architecture.
 
 Version Upgrade Highlights
+
 Enhanced Product Model (./models/product.model.js): The product schema has been upgraded with additional attributes and validation rules to better represent complex product data.
+
 Advanced Product Service (./services/product.service.js): Includes refined business logic and data handling methods, offering a more comprehensive approach to product management.
+
 Improved Authentication Mechanism (./services/authenticationV2.js): Introduces a more robust and secure authentication system, ensuring better data protection and user management.
+
 Revamped Product Controller (./controllers/product.controller.js): Features more efficient request handling and response generation for product-related operations.
 
 
